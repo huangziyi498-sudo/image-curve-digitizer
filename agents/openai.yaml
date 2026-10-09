@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image Curve Digitizer"
+  short_description: "Extract curve or scatter data and build an Excel chart"
+  default_prompt: "Use $image-curve-digitizer to extract calibrated curve or point data from this plot image and create an Excel workbook with a sample chart."
